@@ -1,0 +1,34 @@
+/* dml data manipulation language 
+
+*/
+
+CREATE DATABASE IF NOT EXISTS inmobiliaria;
+USE inmobiliaria;
+
+CREATE TABLE IF NOT EXISTS duenios(
+    dni VARCHAR(10) NOT NULL,
+    nombre VARCHAR(20) NOT NULL,
+    apellido VARCHAR(20) NOT NULL,
+    telefono VARCHAR(25) DEFAULT NULL,
+    PRIMARY KEY (dni)
+);
+CREATE TABLE IF NOT EXISTS inmuebles(
+    codigo INT(10) NOT NULL,
+    direccion VARCHAR(80) NOT NULL,
+    tipo VARCHAR(20) NOT NULL,
+    dni_duenios VARCHAR(20) NOT NULL,
+    PRIMARY KEY (codigo),
+    FOREIGN KEY (dni_duenios) REFERENCES duenios (dni)
+);
+
+CREATE TABLE IF NOT EXISTS inquilinos(
+    dni VARCHAR(10) NOT NULL,
+    nombre VARCHAR(20) NOT NULL,
+    apellido VARCHAR(20) NOT NULL,
+    garantia VARCHAR(25) DEFAULT NULL,
+    codigo_inm INT(11) NOT NULL,
+    PRIMARY KEY (dni),
+    FOREIGN KEY(codigo_inm) REFERENCES inmuebles (codigo)
+);
+
+/*falta insert de datos*/
