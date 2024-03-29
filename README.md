@@ -12,5 +12,6 @@ sobre los pacientes: pueden aplicarse n vacunas,  fecha de aplicaci�n, lote qu
 Del cliente se desea saber que peliculas vio, servicio que posee (Vip, standar, basico) y meses que pag�.
 los servicios tienen precio y cantidad de cuentas que puede tener.
 
-![image](https://github.com/monick96/Diagramas_ER/assets/98364643/ed98d04f-c8b9-4e1b-a380-926d8f8bfaba)
+![image](https://github.com/monick96/Diagramas_ER/assets/98364643/80165ee7-bc94-45f8-bedf-d1605d36eb52)
+
 
