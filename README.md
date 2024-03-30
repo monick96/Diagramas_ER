@@ -20,6 +20,7 @@ Del libro se sabe que posee isbn, nombre, edicion y genero
 Sobre el prestamo  se tiene un n�mero, libro, usuario, fecha salida, dias prestamo.
 El usuario puede retirar varios libros y puede estar penalizado.
 
-![image](https://github.com/monick96/Diagramas_ER/assets/98364643/e694647b-be84-418b-b2b9-bb63708e8aac)
+![image](https://github.com/monick96/Diagramas_ER/assets/98364643/8c764c0b-ca82-4089-9177-0c8836a6644d)
+
 
 
