@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T16:48:17.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1qfnvQciqfLPA9z0mpfG" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T20:59:23.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VHgncM71m_cijAW-Wxoe" version="24.2.5" type="github">
   <diagram name="Página-1" id="Exn9129zInlfy8kHegNU">
-    <mxGraphModel dx="1947" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -634,7 +634,7 @@
         <mxCell id="2b92ZgBnTiT7di_fK2Un-159" value="&lt;b data-sider-select-id=&quot;694bb381-1f7e-4815-80d9-c35dcc9006e5&quot;&gt;&lt;u data-sider-select-id=&quot;7d5a8feb-94d6-4b1f-9e1a-0110b242c63b&quot;&gt;idCuenta&lt;/u&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1135" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2b92ZgBnTiT7di_fK2Un-160" value="&lt;b data-sider-select-id=&quot;5589a6d4-5449-4d33-9e75-af03decc7970&quot;&gt;&lt;u data-sider-select-id=&quot;651b7d50-e4bc-4127-bce9-9c663c117c42&quot;&gt;idClente&lt;/u&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2b92ZgBnTiT7di_fK2Un-160" value="&lt;span data-sider-select-id=&quot;5589a6d4-5449-4d33-9e75-af03decc7970&quot;&gt;&lt;span style=&quot;&quot; data-sider-select-id=&quot;651b7d50-e4bc-4127-bce9-9c663c117c42&quot;&gt;idClente&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1080" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2b92ZgBnTiT7di_fK2Un-161" value="nroCuenta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
