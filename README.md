@@ -28,6 +28,11 @@ El usuario puede retirar varios libros y puede estar penalizado.
 - DER
 ![image](https://github.com/monick96/Diagramas_ER/assets/98364643/b2374a30-014c-4d48-a5a4-565953e737f5)
 
+### A partir de la tabla Normalizar 
+![image](https://github.com/monick96/Diagramas_ER/assets/98364643/2be31db3-ef31-4381-a04b-9f38195b42eb)
+
+- DER
+![image](https://github.com/monick96/Diagramas_ER/assets/98364643/93520d75-6f18-4f4c-a21b-0d36298b27b3)
 
 
 
