@@ -24,9 +24,9 @@ El usuario puede retirar varios libros y puede estar penalizado.
 
 ### A partir de la tabla armar el DER
 - Tabla
-  ![image](https://github.com/monick96/Diagramas_ER/assets/98364643/8073a708-125b-4891-b597-c662b30fee35)
+![image](https://github.com/monick96/Diagramas_ER/assets/98364643/8073a708-125b-4891-b597-c662b30fee35)
 
--DER
+- DER
 ![image](https://github.com/monick96/Diagramas_ER/assets/98364643/b2374a30-014c-4d48-a5a4-565953e737f5)
 
 
